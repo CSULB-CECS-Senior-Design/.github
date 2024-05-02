@@ -7,6 +7,13 @@
 4. Text Emergency Services
 5. Gas Sensor
 
+## Videos
+### Autonomous and Remote Control
+- https://youtu.be/vglPTJBnY7g?si=NgMSZu6HkpGmgvG6
+### Texting via Voice Command
+- https://youtu.be/lv5w097g-EM
+
+## Quick Repository Links
 ### Autonomous and Remote Control Repository
 - https://github.com/CSULB-CECS-Senior-Design/Main-SBC
 ### Motor Repository
